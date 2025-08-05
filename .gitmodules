@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/dosfe/Virtual_socializing.git
+[submodule "server"]
+	path = server
+	url = https://github.com/dosfe/Virtual_socializing.git
